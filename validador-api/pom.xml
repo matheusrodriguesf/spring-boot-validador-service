@@ -47,6 +47,11 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<dependency>
+			<groupId>com.github.gilmardeveloper</groupId>
+			<artifactId>safeguard</artifactId>
+			<version>0.0.1-RELEASE</version>
+		</dependency>
 	</dependencies>
 
 	<build>
